@@ -24,7 +24,7 @@ h1{
     place-items: center;
     height: 570px;
     width: 350px;
-    background:linear-gradient(45deg, #fff, rgb(235, 51, 66), #fff);
+    background:linear-gradient(45deg, #fff, rgb(235, 51, 66));
     border-radius: 10px;
     box-shadow: 0 0 10px #333;
     margin-top: -20px;
